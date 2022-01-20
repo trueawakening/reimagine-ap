@@ -18,9 +18,6 @@
 </pre>
 </td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td>
 <pre>
@@ -35,10 +32,6 @@
 </pre>
 </td>
 </tr>
-</table>
-
-
-<table>
 <tr>
 <td>
 <pre>
@@ -57,9 +50,6 @@
 </pre>
 </td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td>
 <pre>
@@ -78,10 +68,6 @@
 </pre>
 </td>
 </tr>
-</table>
-
-
-<table>
 <tr>
 <td>
 <pre>
@@ -99,9 +85,6 @@
 </pre>
 </td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td>
 <pre>
@@ -128,10 +111,6 @@
 </pre>
 </td>
 </tr>
-</table>
-
-
-<table>
 <tr>
 <td>
 <pre>
@@ -162,10 +141,6 @@
 </pre>
 </td>
 </tr>
-</table>
-
-
-<table>
 <tr>
 <td>
 <pre>
@@ -204,10 +179,6 @@
 </pre>
 </td>
 </tr>
-</table>
-
-
-<table>
 <tr>
 <td>
 <pre>
