@@ -2,6 +2,11 @@
 ## You did elect a corrupt to CM post
 ### Will you marry your daughter to a corrupt person?
 
+The following song is dedicated to those AP Employees who used 2 hands to vote for Jagan.
+
+
+### 🎵🎵🎵
+#### 🎵🎵🎵🎵
 
 <table>
 <tr>
