@@ -1,4 +1,6 @@
 # AP EMPLOYEES - TWO HANDED VOTERS
+
+
 ## You did elect a corrupt to CM post
 ### Will you marry your daughter to a corrupt person?
 
@@ -12,40 +14,32 @@ The following song is dedicated to those AP Employees who used 2 hands to vote f
 <tr>
 <td>
 <pre>
-    Koka Koka Koka Kadithe
-    Kora Kora Mantu Chusthaaru
-</pre>
-</td>
-<td>
-<pre>
     CPS Salary hike ante
     meh meh antu Nammaaru.
 </pre>
 </td>
-</tr>
-<tr>
 <td>
 <pre>
-    Potti Potti Gown’ey Vesthe
-    Patti Patti Chusthaaru
+    Koka Koka Koka Kadithe
+    Kora Kora Mantu Chusthaaru
 </pre>
 </td>
+</tr>
+<tr>
 <td>
 <pre>
     Criminal ani thelisi kuda
     dabbulosthe challe-ani guddhaaru.
 </pre>
 </td>
-</tr>
-<tr>
 <td>
 <pre>
-    Koka Kaadhu Gown’u Kaadhu
-    Kattulona Yemundi
-    Mee Kallallone Antha Undhi
-    Mee Maga Buddhey Vankara Buddhi
+    Potti Potti Gown’ey Vesthe
+    Patti Patti Chusthaaru
 </pre>
 </td>
+</tr>
+<tr>
 <td>
 <pre>
     Salary ledhu cps ledhu
@@ -54,16 +48,16 @@ The following song is dedicated to those AP Employees who used 2 hands to vote f
     Mee udyogulde vankara buddhi.
 </pre>
 </td>
-</tr>
-<tr>
 <td>
 <pre>
-    Oo Antava Mava
-    Oo Oo Antava Mava
-    Oo Antava Mava
-    Oo Oo Antava Mava
+    Koka Kaadhu Gown’u Kaadhu
+    Kattulona Yemundi
+    Mee Kallallone Antha Undhi
+    Mee Maga Buddhey Vankara Buddhi
 </pre>
 </td>
+</tr>
+<tr>
 <td>
 <pre>
     Oo Antava Reddy
@@ -72,8 +66,23 @@ The following song is dedicated to those AP Employees who used 2 hands to vote f
     Oo Oo Antava Raju
 </pre>
 </td>
+<td>
+<pre>
+    Oo Antava Mava
+    Oo Oo Antava Mava
+    Oo Antava Mava
+    Oo Oo Antava Mava
+</pre>
+</td>
 </tr>
 <tr>
+<td>
+<pre>
+    Speed speed ga jaruguthunte polavaram 
+    Avineethi ani antadokadu
+    Rajadhaniki land pooling isthe, laksha kotla scam antadokadu
+</pre>
+</td>
 <td>
 <pre>
     Thella Thella Gunte Okadu
@@ -82,27 +91,8 @@ The following song is dedicated to those AP Employees who used 2 hands to vote f
     Allarallari Chesthadu
 </pre>
 </td>
-<td>
-<pre>
-    Speed speed ga jaruguthunte polavaram 
-    Avineethi ani antadokadu
-    Rajadhaniki land pooling isthe, laksha kotla scam antadokadu
-</pre>
-</td>
 </tr>
 <tr>
-<td>
-<pre>
-    Thelupu Nalupu Kaadhu Meeku
-    Rangutho Paniyemundhi<br>
-    Sandhu Dorikindhante Saalu
-    Mee Maga Buddhe Vankara Buddhi<br>
-    Oo Antava Mava
-    Oo Oo Antava Mava<br>
-    Haaye Oo Antava Mava
-    Oo Oo Antava Mava
-</pre>
-</td>
 <td>
 <pre>
     Polavaram kadhu,  Rajadhani kadhu
@@ -115,22 +105,20 @@ The following song is dedicated to those AP Employees who used 2 hands to vote f
     Oo Oo Antava Christian
 </pre>
 </td>
-</tr>
-<tr>
 <td>
 <pre>
-    Yetthu Yetthu Gunte Okadu
-    Yegiri Ganthulesthaadu<br>
-    Kurasa Kurasa Gunte Okadu
-    Murisi Murisi Pothaadu<br>
-    Yetthu Kaadhu Kurasa Kaadhu
-    Meeko Satthem Sebuthaanu<br>
-    Andhina Dhraakshe Theepi Meeku
+    Thelupu Nalupu Kaadhu Meeku
+    Rangutho Paniyemundhi<br>
+    Sandhu Dorikindhante Saalu
     Mee Maga Buddhe Vankara Buddhi<br>
     Oo Antava Mava
+    Oo Oo Antava Mava<br>
+    Haaye Oo Antava Mava
     Oo Oo Antava Mava
 </pre>
 </td>
+</tr>
+<tr>
 <td>
 <pre>
     road lo gothlu unte ikkado akkado
@@ -145,26 +133,22 @@ The following song is dedicated to those AP Employees who used 2 hands to vote f
     Oo Oo Antava gowda
 </pre>
 </td>
-</tr>
-<tr>
 <td>
 <pre>
-    Haaye Oo Antava Mava
-    Oo Oo Antava Mava<br>
-    Boddhu Boddhu Gunte Okadu
-    Muddhu Gunnav Antadu<br>
-    Sanna Sannangunte Okadu
-    Sarada Padipothuntaadu<br>
-    Boddhu Kaadhu Sannam Kaadhu
-    Vompu Sompu Kaadhandi<br>
-    Ontiga Sikkamante Saalu
+    Yetthu Yetthu Gunte Okadu
+    Yegiri Ganthulesthaadu<br>
+    Kurasa Kurasa Gunte Okadu
+    Murisi Murisi Pothaadu<br>
+    Yetthu Kaadhu Kurasa Kaadhu
+    Meeko Satthem Sebuthaanu<br>
+    Andhina Dhraakshe Theepi Meeku
     Mee Maga Buddhe Vankara Buddhi<br>
     Oo Antava Mava
-    Oo Oo Antava Mava<br>
-    Oye Oo Antava Mava
-    Oo Oo Antava Mava<br>
+    Oo Oo Antava Mava
 </pre>
 </td>
+</tr>
+<tr>
 <td>
 <pre>
     Haaye Oo Antava Komati
@@ -183,31 +167,26 @@ The following song is dedicated to those AP Employees who used 2 hands to vote f
     Oo Oo Antava Volunteer<br>
 </pre>
 </td>
-</tr>
-<tr>
 <td>
 <pre>
-    Peddha Peddha Manishi Laaga
-    Okadu Pojulu Kodathadu<br>
-    Manchi Manchi Manasundantu
-    Okadu Neethulu Sebuthadu<br>
-    Manchi Kaadhu Seddaa Kaadhu
-    Anthaa Okate Jathandi<br>
-    Deepalanni Aarpesaaka
-    Uu Uu Uu Deepalanni Aarpesaka<br>
-    Andhari Buddhi Vankara Buddhe<br>
+    Haaye Oo Antava Mava
+    Oo Oo Antava Mava<br>
+    Boddhu Boddhu Gunte Okadu
+    Muddhu Gunnav Antadu<br>
+    Sanna Sannangunte Okadu
+    Sarada Padipothuntaadu<br>
+    Boddhu Kaadhu Sannam Kaadhu
+    Vompu Sompu Kaadhandi<br>
+    Ontiga Sikkamante Saalu
+    Mee Maga Buddhe Vankara Buddhi<br>
     Oo Antava Mava
     Oo Oo Antava Mava<br>
-    Oo Antame Mapa
-    Oo Oo Antama Papa<br>
-    Oo Antava Mava
-    Oo Oo Antava Mava<br>
-    Oo Antame Papa
-    Oo Oo Antama Papa<br>
-    Oo Antava Mava
+    Oye Oo Antava Mava
     Oo Oo Antava Mava<br>
 </pre>
 </td>
+</tr>
+<tr>
 <td>
 <pre>
     Chethike vemuke ledhani self
@@ -229,6 +208,29 @@ The following song is dedicated to those AP Employees who used 2 hands to vote f
     Oo Oo Antama Reddy<br>
     Oo Antava Reddy
     Oo Oo Antava Reddy<br>
+</pre>
+</td>
+<td>
+<pre>
+    Peddha Peddha Manishi Laaga
+    Okadu Pojulu Kodathadu<br>
+    Manchi Manchi Manasundantu
+    Okadu Neethulu Sebuthadu<br>
+    Manchi Kaadhu Seddaa Kaadhu
+    Anthaa Okate Jathandi<br>
+    Deepalanni Aarpesaaka
+    Uu Uu Uu Deepalanni Aarpesaka<br>
+    Andhari Buddhi Vankara Buddhe<br>
+    Oo Antava Mava
+    Oo Oo Antava Mava<br>
+    Oo Antame Mapa
+    Oo Oo Antama Papa<br>
+    Oo Antava Mava
+    Oo Oo Antava Mava<br>
+    Oo Antame Papa
+    Oo Oo Antama Papa<br>
+    Oo Antava Mava
+    Oo Oo Antava Mava<br>
 </pre>
 </td>
 </tr>
